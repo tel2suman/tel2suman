@@ -1,6 +1,6 @@
 
-### Hi there 👋, Suman Bhattacharjee
-#### Frontend Developer
+### Hi there 👋,I'm Suman Bhattacharjee
+### Frontend Developer
 
 I'd like to adopt new skills & technique as a Frontend Developer, who always prefer to be in the corporate industry as a team player. I always prefer to learn new skills & roles in corporate organization as one of team player to use required specific technology tools and programming languages, including HTML, CSS and JavaScript & various frontend designing frameworks. I always tried to deliver front-end technology specific requirements as a Frontend Developer.I'd like to adopt new skills & technique as a Frontend Developer or any other role as a developer, who always prefer to be in the corporate industry as a team player. I always prefer to learn new skills & roles in corporate organization as one of team player to use required specific technology tools and programming languages, including HTML, CSS and JavaScript & various frontend designing frameworks. I always tried to deliver front-end technology specific requirements as a Frontend Developer.
 
