@@ -1,4 +1,3 @@
-![Frontend Developer](https://media.licdn.com/dms/image/D5616AQEr5qw9Yec6tA/profile-displaybackgroundimage-shrink_350_1400/0/1672165149341?e=1677715200&v=beta&t=B-VmV0-BYWCF8VIEASbrNFYkK8JWFaiqc2KlOx_kTak)
 
 ### Hi there 👋, Suman Bhattacharjee
 #### Frontend Developer
