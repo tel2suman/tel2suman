@@ -6,7 +6,7 @@ I'd like to adopt new skills & technique as a Frontend Developer, who always pre
 
 Skills:  HTML / CSS / JS / BOOTSTRAP / MATERIAL UI / ANGULAR
 
-- 🔭 I’m currently working on HTML , Bootstrap, Angular 
+- 🔭 I’m currently working on HTML , Bootstrap, React Native, Reactjs 
 - 🌱 I’m currently learning React Js 
 - 🤔 I’m looking for help with Node Js 
  
